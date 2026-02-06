@@ -16,8 +16,6 @@ UML diagrams included:
 - Activity Diagram
 - ER Diagram
 
-![UML Diagram](uml-diagrams/library-uml.png)
-
 ## Project Structure
 ├── README.md
 ├── uml-diagrams/
