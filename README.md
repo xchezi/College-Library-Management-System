@@ -2,13 +2,13 @@
 
 This repository contains the system design project for a College Library Management System.
 
-## 📌 Features
+## Features
 - Book search, issue, and return
 - User and librarian roles
 - Fine calculation
 - Secure authentication
 
-## 📐 UML Diagrams
+## UML Diagrams
 UML diagrams included:
 - Use Case Diagram
 - Class Diagram
@@ -18,7 +18,7 @@ UML diagrams included:
 
 ![UML Diagram](uml-diagrams/library-uml.png)
 
-## 📂 Project Structure
+## Project Structure
 ├── README.md
 ├── uml-diagrams/
 │ └── library-uml.png
@@ -26,7 +26,7 @@ UML diagrams included:
 └── system-design.pdf
 
 
-## 🛠️ Tools Used
+## Tools Used
 - UML Modeling
 - System Design Concepts
 - Git & GitHub
